@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hana Huie</title>
+    <description>Hi there! This is the personal site of Hana Huie - student, programmer, and dancer.
+</description>
+    <link>http://hhuie.github.io/blog/</link>
+    <atom:link href="http://hhuie.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 24 Apr 2015 12:09:00 -0400</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2015 12:09:00 -0400</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>First Post!</title>
+        <description>&lt;p&gt;This is my first post on &lt;a href=&quot;http://hhuie.github.io&quot;&gt;hhuie.github.io&lt;/a&gt;! As of right now, I am pretty much clueless about markdown. I&#39;ve heard of it before, but I don&#39;t know how it works. But fear not, my dear reader, for this shall soon change! For now, this post is just here to provide a place to start.&lt;/p&gt;
+
+&lt;p&gt;Thanks for embarking on this journey with me.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 23 Apr 2015 19:25:51 -0400</pubDate>
+        <link>http://hhuie.github.io/blog/personal/2015/04/23/first-post.html</link>
+        <guid isPermaLink="true">http://hhuie.github.io/blog/personal/2015/04/23/first-post.html</guid>
+        
+        
+        <category>personal</category>
+        
+      </item>
+    
+  </channel>
+</rss>
