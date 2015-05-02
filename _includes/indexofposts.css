@@ -1,0 +1,30 @@
+/* .listofposts {
+  background-color: #112399;
+} 
+
+.personal {
+  background-color: #990000;
+}
+
+*/
+
+.listofposts h3 {
+  text-transform: capitalize;
+}
+
+.personal {
+  padding: 30px;
+  border-top: 5px solid #cccccc;
+  border-bottom: 5px solid #cccccc;
+
+}
+
+.school {
+  padding: 30px;
+  border-bottom: 5px solid #cccccc;
+}
+
+.listofposts {
+  //border: 5px solid #cccccc;
+}
+
