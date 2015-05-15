@@ -6,9 +6,106 @@
 </description>
     <link>http://hhuie.github.io/blog/</link>
     <atom:link href="http://hhuie.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 May 2015 23:21:38 -0400</pubDate>
-    <lastBuildDate>Mon, 11 May 2015 23:21:38 -0400</lastBuildDate>
+    <pubDate>Fri, 15 May 2015 18:34:23 -0400</pubDate>
+    <lastBuildDate>Fri, 15 May 2015 18:34:23 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>1 Easy Method to Memorize 9 Scales</title>
+        <description>&lt;p&gt;If you play an instrument or want to learn how, you may be aware of how important scales are. Memorizing and practicing your scales helps improve your technique and playing overall. Here is the trick I used when I played flute to learn and remember my scales!&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Note: For the purpose of this post, I will refer to sharp or flat notes as “irregularities” for simplicity’s sake. Also, “#” means a sharp note, and “b” means a flat note.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;At its essence, this method is based on learning and memorizing scales based on how many sharps or flats they have. For each scale, we will determine how many sharps or flats it has, which notes those irregularities are, and replace the natural notes with either the sharp or flat version of that note, depending on the scale.&lt;/p&gt;
+
+&lt;p&gt;For example, the simplest scale to memorize is C. It has no sharps or flats, so it is simply: C D E F G A B C.&lt;/p&gt;
+
+&lt;p&gt;For the other 8 scales, imagine that there are 2 groups of scales: the “Sharps,” and the “Flats.” In the “Sharps” group, the only irregularities a scale will have are sharp notes, and in the “Flats” group, the only irregularities a scale will have are flat notes. In this post, we will memorize 4 scales from each group.&lt;/p&gt;
+
+&lt;p&gt;Each scale in these groups has a certain number of irregularities. What makes them easy to remember is that each scale contains all the irregular (sharp/flat) notes of the scale preceding it in the number of irregularities, and adds on one new sharp or flat irregularity.&lt;/p&gt;
+
+&lt;p&gt;Reference this chart, for example:&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;# of Irregularities&lt;/th&gt;
+    &lt;th&gt;Sharp Group&lt;/th&gt;
+    &lt;th&gt;Flat Group&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;1&lt;/td&gt;
+    &lt;td&gt;G&lt;/td&gt;
+    &lt;td&gt;F&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;2&lt;/td&gt;
+    &lt;td&gt;D&lt;/td&gt;
+    &lt;td&gt;Bb&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;3&lt;/td&gt;
+    &lt;td&gt;A&lt;/td&gt;
+    &lt;td&gt;Eb&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;4&lt;/td&gt;
+    &lt;td&gt;E&lt;/td&gt;
+    &lt;td&gt;Ab&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;br/&gt;
+&lt;p&gt;Confused? Don’t worry! Let’s examine the G and D scales as an example. Notice that G is the first scale in the sharp group, meaning it only has one sharp note and the rest are natural. This one sharp note is F#, which replaces the natural F, so the G scale is: G A B C D E F# G.&lt;/p&gt;
+
+&lt;p&gt;Then, to memorize the D scale, we notice that it is the second scale in the sharp group. Thus, it must take on all of the sharps from G, the scale preceding it in number of irregularities. Therefore, we can conclude that the D scale contains the F# that it inherits from the G scale, and adds on one more sharp, which is C#. Thus, the D scale is: D E F# G A B C# D.&lt;/p&gt;
+
+&lt;br/&gt;
+&lt;h4&gt;Here are the 8 “irregular” scales below for your reference:&lt;/h4&gt;
+
+&lt;p&gt;
+&lt;b&gt;Sharps&lt;/b&gt;
+&lt;ol&gt;
+  &lt;li&gt;G, adds F# &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; G A B C D E F# G&lt;/li&gt;
+  &lt;li&gt;D, adds C# &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; D E F# G A B C# D&lt;/li&gt;
+  &lt;li&gt;A, adds G# &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; A B C# D E F# G# A&lt;/li&gt;
+  &lt;li&gt;E, adds D# &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; E F# G# A B C# D# E&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;b&gt;Flats&lt;/b&gt;
+&lt;ol&gt;
+  &lt;li&gt;F, adds Bb &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; F G A Bb C D E F&lt;/li&gt;
+  &lt;li&gt;Bb, adds Eb &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Bb C D Eb F G A Bb&lt;/li&gt;
+  &lt;li&gt;Eb, adds Ab &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Eb F G Ab Bb C D Eb&lt;/li&gt;
+  &lt;li&gt;Ab, adds Db &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Ab Bb C Db Eb F G Ab&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/p&gt;
+
+&lt;br/&gt;
+&lt;p&gt;To make the most of this method and avoid burnout, here’s my practice recommendation:&lt;/p&gt;
+
+&lt;p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Choose to start with either the Sharps group or the Flats group&lt;/li&gt;
+  &lt;li&gt;Memorize the first scale of the group (either F for Flats or G for Sharps)&lt;/li&gt;
+  &lt;li&gt;Each day, memorize the next scale in the order of irregularities, with the mindset of building upon the “arsenal” of sharps or flats you already know.&lt;/li&gt;
+  &lt;li&gt;Keep practicing and don’t give up! Once you memorize all 4 scales in one group, move on to the next.&lt;/li&gt;
+  &lt;li&gt;However, don’t forget the scales you learned! When I practiced scales, I used a method in which each day I would practice 2 scales so that every week I would circulate through all of the scales. You can make your own personal schedule for this, or just keep track in your head - whatever works best for you.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/p&gt;
+
+&lt;p&gt;So there you go - I hope this helps you out in all of your music-making endeavors. If you have any questions or comments, please don’t hesitate to reach out to me either through email or &lt;a href=&quot;http://twitter.com/sunshoone&quot;&gt;Twitter&lt;/a&gt;. Good luck!&lt;/p&gt;
+
+&lt;br/&gt;
+&lt;p&gt;-Hana&lt;/p&gt;</description>
+        <pubDate>Fri, 15 May 2015 13:52:00 -0400</pubDate>
+        <link>http://hhuie.github.io/blog/music/2015/05/15/memorizing-scales.html</link>
+        <guid isPermaLink="true">http://hhuie.github.io/blog/music/2015/05/15/memorizing-scales.html</guid>
+        
+        
+        <category>music</category>
+        
+      </item>
     
       <item>
         <title>Background Music for Studying</title>

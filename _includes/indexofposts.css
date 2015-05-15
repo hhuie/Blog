@@ -28,3 +28,11 @@
   //border: 5px solid #cccccc;
 }
 
+table, td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td, th {
+  padding: 15px;
+}
+
