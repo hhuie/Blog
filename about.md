@@ -16,4 +16,4 @@ I tried keeping blogs before using sites like WordPress, Tumblr, and Blogger, bu
 
 Thank you for visiting my blog!
 
-For more about me, please visit my [website](http://hhuie.github.io).
+<!--For more about me, please visit my [website](http://hhuie.github.io).-->
