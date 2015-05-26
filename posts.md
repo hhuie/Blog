@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Index of Posts
-permalink: /indexofposts/
+title: Posts
+permalink: /posts/
 ---
 
 <div class="listofposts">
 <p>
 {% for category in site.categories %}
   <div name="{{ category | first }}" class="{{ category | first }}">
-  <h3>Category: {{ category | first }}</h3>
+  <h3>{{ category | first }}</h3>
     <ol>
     {% for posts in category %}
       {% for post in posts %}
